@@ -1,0 +1,40 @@
+spark is an open souce distributed framework for large data processing. 
+in memory 
+spark can work with hadoop 0r without hadoop (stand alone) 
+spark is build on a main concept called rdd 
+transformation and action is how rdd works.
+
+
+Apache Spark. ... Spark is a distributed platform for executing complex multi-stage applications, 
+like machine learning algorithms, and interactive ad hoc queries. 
+Spark provides an efficient abstraction for in-memory cluster computing called Resilient Distributed Dataset.
+
+rdd works on two operations 
+
+2 types of tansformation
+-narrow- input and output stays in the same partition
+-wide tra
+
+action is the output
+create anything 
+how to create RDD?
+it has 3 ways 
+	parallelized collections-
+	from RDD's
+	External Data
+
+
+
+What is transformation and action in spark?
+Two types of Apache Spark RDD operations are- 
+Transformations and Actions. A Transformation is a function that produces new RDD from the existing RDDs but when we want to work with the actual dataset, at that point Action is performed.
+
+
+action is the (output, end result, end product) of the transformation 
+
+rdd is an object that represents the dataset and this data can be structurd or umstrutured. 
+once a rdd is created its immutable. 
+why is it resilient? because rdd are immutable and can't be changed. 
+distritubed because its distributed across the cluster 
+rdd is an object distributing datasets. 
+

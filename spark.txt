@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+
+we forcefull added to the remote repo!!
+
+YAY11
+
 dgfdgfhhngjjn
 gmdgfh fhg hg hg hghgh
 hbm
@@ -9,6 +15,12 @@ m,
 I have added a line
 
 I have added another line
+=======
+added a line on github.com
+added another line on github.com
+this is the 3dr line
+
+>>>>>>> 5bdad967ab66cb889e05c6d05ed865e9dcb23c58
 
 spark is an open souce distributed framework for large data processing. 
 in memory 
